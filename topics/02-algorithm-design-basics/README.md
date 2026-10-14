@@ -1,8 +1,8 @@
 # Základy návrhu algoritmů
 
 ## Prerekvizity
-- Schonpost používat Git
-- Schopnost používat nějaké IDE pro psaní a testování Pythoních programů
+- Schopnost používat Git
+- Schopnost používat nějaké IDE pro psaní a testování programů v Pythonu
 
 ## Cíle
 
@@ -26,12 +26,23 @@ diagramy a základní úvahy o správnosti a časové složitosti.
 
 ## Cvičení
 
+U každé úlohy si přečtěte slovní popis algoritmu a prohlédněte jeho pseudokód
+a implementaci v Pythonu. Poté na papír nakreslete vývojový diagram, který
+zachytí pořadí kroků, rozhodování a případné opakování. Teprve potom si na konci
+úlohy rozbalte vzorové řešení v Mermaid a porovnejte je se svým diagramem.
+
 1. [Průměrná hodnota z čísel](lab/average_value.md)
 1. [Převod teploty ze stupňů Celsia](lab/temperature_conversion.md)
 1. [Hledání největší hodnoty](lab/largest_value.md)
 1. [Počítání kladných, záporných a nulových hodnot](lab/count_number_types.md)
 1. [Nakreslení přímky ze zadaného vektoru — rozšiřující úloha](lab/line_slope_ascii.md)
 
+
+## Dodatečné materiály
+
+- [Dokumentace jazyka Python](https://docs.python.org/3/) — oficiální dokumentace, včetně [Python Tutorialu](https://docs.python.org/3/tutorial/)
+- [LearnPython.org](https://www.learnpython.org/) — interaktivní kurz Pythonu v angličtině
+- [Nauč se Python – kurz PyLadies](https://naucse.python.cz/course/pyladies/) — český začátečnický kurz Pythonu od komunity PyLadies
 
 ## Zdroje
 
